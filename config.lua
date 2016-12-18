@@ -14,6 +14,10 @@ application =
         iphone =
         {
             types = { "badge", "sound", "alert" }
-        }
-    }
+        },
+        google =
+        {
+            projectNumber = "00000000000"
+        },
+    },
 } 
