@@ -61,7 +61,7 @@ settings =
         },
         ["plugin.helpshift"] =
         {
-            publisherId = "com.scottrules44"
+            publisherId = "tech.scotth"
         },
     }, 
 }
